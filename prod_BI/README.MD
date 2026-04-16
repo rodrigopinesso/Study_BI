@@ -1,6 +1,6 @@
 # Dashboard de Monitoramento de Producao e Performance
 
-Solucao de Business Intelligence desenvolvida para analisar a eficiencia operacional de uma linha de producao. O dashboard transforma dados brutos de ordens de servico em indicadores estrategicos (KPIs) para suporte a tomada de decisao.
+Solucao de Business Intelligence desenvolvida para analisar a eficiencia operacional de uma linha de produção. O dashboard transforma dados brutos de ordens de servico em indicadores estrategicos (KPIs) para suporte a tomada de decisao.
 
 ---
 
