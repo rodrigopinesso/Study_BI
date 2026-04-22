@@ -1,22 +1,22 @@
-# 📊 Dashboard RH — People Analytics
+# Dashboard RH — People Analytics
 
 Painel de RH desenvolvido no **Power BI** para análise de pessoas, acompanhamento de contratações, turnover e distribuição da força de trabalho por área, cargo, cidade e gênero.
 
 ---
 
-## 🖼️ Visão Geral
+## Visão Geral
 
 ![Dashboard RH](img/dash_rh.png)
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Fornecer uma visão analítica do capital humano da empresa, permitindo que gestores de RH acompanhem indicadores estratégicos como contratações ao longo do tempo, taxa de turnover, distribuição de funcionários ativos por área e cargo, e composição por gênero e localização.
 
 ---
 
-## 📌 Indicadores do Painel
+## Indicadores do Painel
 
 | Indicador | Descrição |
 |---|---|
@@ -30,7 +30,7 @@ Fornecer uma visão analítica do capital humano da empresa, permitindo que gest
 
 ---
 
-## 🗂️ Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 hr_BI/
@@ -47,7 +47,7 @@ hr_BI/
 
 ---
 
-## 🗃️ Sobre os Dados
+## Sobre os Dados
 
 A base `BaseFuncionarios.xlsx` contém informações de colaboradores com os seguintes campos:
 
@@ -65,7 +65,7 @@ A base `BaseFuncionarios.xlsx` contém informações de colaboradores com os seg
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - [Power BI Desktop](https://powerbi.microsoft.com/) — Modelagem de dados e visualizações
 - Microsoft Excel — Fonte de dados (`BaseFuncionarios.xlsx`)
@@ -73,7 +73,7 @@ A base `BaseFuncionarios.xlsx` contém informações de colaboradores com os seg
 
 ---
 
-## 🚀 Como Utilizar
+## Como Utilizar
 
 1. Clone ou baixe este repositório
 2. Abra o arquivo `dash/hr_dash.pbix` no **Power BI Desktop**
@@ -82,7 +82,7 @@ A base `BaseFuncionarios.xlsx` contém informações de colaboradores com os seg
 
 ---
 
-## 👤 Autor
+## Autor
 
 **Rodrigo Pinesso**  
 [GitHub](https://github.com/rodrigopinesso/Study_BI)
